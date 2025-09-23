@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 737.0, 394.0, 1301.0, 540.0 ],
+		"rect" : [ 503.0, 337.0, 1301.0, 540.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -49,7 +49,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1127.0, 49.0, 141.0, 18.0 ],
+					"patching_rect" : [ 558.0, 1143.792725000000246, 141.0, 18.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 2,
 					"presentation_rect" : [ 1182.977783000000272, 104.175858000000005, 103.912841999999728, 29.0 ],
@@ -497,16 +497,16 @@
 					"patching_rect" : [ 2135.0, 1284.0, 69.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"allwindowsactive" : 0,
-						"appicon_mac" : "",
-						"appicon_win" : "",
+						"appicon_mac" : "Media:/Git Repos/_GitHub/Delayed-to-Rest/Delayed to Rest/other/VJ.icns",
+						"appicon_win" : "Media:/Git Repos/_GitHub/Delayed-to-Rest/Delayed to Rest/other/VJ.ico",
 						"audiosupport" : 1,
-						"bundleidentifier" : "com.mycompany.myprogram",
+						"bundleidentifier" : "com.delayedtorest.vjmanzo",
 						"cantclosetoplevelpatchers" : 0,
-						"cefsupport" : 1,
+						"cefsupport" : 0,
 						"copysupport" : 1,
 						"database" : 0,
 						"extensions" : 1,
-						"gensupport" : 1,
+						"gensupport" : 0,
 						"midisupport" : 1,
 						"noloadbangdefeating" : 0,
 						"overdrive" : 1,
@@ -2747,10 +2747,10 @@
 ,
 									"fileref" : 									{
 										"name" : "CenterOne",
-										"filename" : "CenterOne_20250923_3.maxsnap",
+										"filename" : "CenterOne_20250923_4.maxsnap",
 										"filepath" : "/Volumes/Media/Git Repos/_GitHub/Delayed-to-Rest/Delayed to Rest/data",
 										"filepos" : -1,
-										"snapshotfileid" : "10ae9fbf764ec05e92cea04061b26569"
+										"snapshotfileid" : "30b4712093a681a25a0fbd39cbbd6b26"
 									}
 
 								}
@@ -4013,7 +4013,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 131.0, 218.0, 88.0, 49.0 ],
+					"patching_rect" : [ 131.0, 218.0, 90.0, 49.0 ],
 					"text" : "open \"Delayed to Rest (VJ Guitar).mp3\""
 				}
 
@@ -17332,7 +17332,7 @@
 		}
 ,
 		"dependency_cache" : [ 			{
-				"name" : "CenterOne_20250923_3.maxsnap",
+				"name" : "CenterOne_20250923_4.maxsnap",
 				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/Delayed-to-Rest/Delayed to Rest/data",
 				"patcherrelativepath" : "../data",
 				"type" : "mx@s",
