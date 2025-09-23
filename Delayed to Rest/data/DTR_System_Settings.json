@@ -1,0 +1,11 @@
+{
+	"preset_data" : [ 		{
+			"number" : 1,
+			"data" : [ 5, "obj-311", "number", "int", 64, 5, "obj-18", "number", "int", 60, 5, "obj-319", "umenu", "int", 3, 5, "obj-332", "toggle", "int", 0, 5, "obj-38", "live.gain~", "float", -3.0, 5, "obj-447", "umenu", "int", 21, 5, "obj-35", "live.gain~", "float", -3.0, 5, "obj-218", "umenu", "int", 9, 5, "obj-382", "filtergraph~", "nfilters", 5, 9, "obj-382", "filtergraph~", "setoptions", 4, 5, 1, 0, 0, 8, "obj-382", "filtergraph~", "params", 4, 794.430969, 1.0, 2.5, 9, "obj-382", "filtergraph~", "setoptions", 3, 5, 1, 0, 0, 8, "obj-382", "filtergraph~", "params", 3, 135.0, 1.0, 2.5, 9, "obj-382", "filtergraph~", "setoptions", 2, 5, 1, 0, 0, 8, "obj-382", "filtergraph~", "params", 2, 90.0, 1.0, 2.5, 9, "obj-382", "filtergraph~", "setoptions", 1, 5, 1, 0, 0, 8, "obj-382", "filtergraph~", "params", 1, 82.607552, 1.0, 2.5, 9, "obj-382", "filtergraph~", "setoptions", 0, 5, 0, 0, 0, 8, "obj-382", "filtergraph~", "params", 0, 6916.833008, 1.0, 0.5, 5, "obj-368", "toggle", "int", 1 ]
+		}
+, 		{
+			"number" : 2,
+			"data" : [ 5, "obj-311", "number", "int", 0, 5, "obj-18", "number", "int", 0, 5, "obj-319", "umenu", "int", 3, 5, "obj-332", "toggle", "int", 1, 5, "obj-38", "live.gain~", "float", -3.0, 5, "obj-447", "umenu", "int", 21, 5, "obj-35", "live.gain~", "float", -3.0, 5, "obj-218", "umenu", "int", 9, 5, "obj-382", "filtergraph~", "nfilters", 5, 9, "obj-382", "filtergraph~", "setoptions", 4, 5, 1, 0, 0, 8, "obj-382", "filtergraph~", "params", 4, 794.430969, 1.0, 2.5, 9, "obj-382", "filtergraph~", "setoptions", 3, 5, 1, 0, 0, 8, "obj-382", "filtergraph~", "params", 3, 135.0, 1.0, 2.5, 9, "obj-382", "filtergraph~", "setoptions", 2, 5, 1, 0, 0, 8, "obj-382", "filtergraph~", "params", 2, 90.0, 1.0, 2.5, 9, "obj-382", "filtergraph~", "setoptions", 1, 5, 1, 0, 0, 8, "obj-382", "filtergraph~", "params", 1, 82.607552, 1.0, 2.5, 9, "obj-382", "filtergraph~", "setoptions", 0, 5, 0, 0, 0, 8, "obj-382", "filtergraph~", "params", 0, 6916.833008, 1.0, 0.5, 5, "obj-368", "toggle", "int", 1 ]
+		}
+ ]
+}
