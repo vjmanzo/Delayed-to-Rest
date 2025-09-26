@@ -1,8 +1,8 @@
 {
-	"name" : "Delayed to Rest (2015)",
+	"name" : "Delayed to Rest",
 	"version" : 1,
 	"creationdate" : 3505711685,
-	"modificationdate" : 3505890342,
+	"modificationdate" : 3841762279,
 	"viewrect" : [ 148.0, 284.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -16,6 +16,21 @@
 				"toplevel" : 1
 			}
 ,
+			"komp-ballistics.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"vj.DtR-VST_preset.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"vj.bufferplayback.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"vj.delays.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
@@ -26,17 +41,12 @@
 				"local" : 1
 			}
 ,
-			"vj.delays8.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
 			"vj.delays16.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"vj.bufferplayback.maxpat" : 			{
+			"vj.delays8.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -47,16 +57,6 @@
 			}
 ,
 			"vj.scrubslider.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"komp-ballistics.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"vj.DtR-VST_preset.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -80,15 +80,30 @@
 				"kind" : "patcher",
 				"local" : 1
 			}
+,
+			"multidelays.amxd" : 			{
+				"kind" : "maxforlive",
+				"local" : 1
+			}
+,
+			"multidelays2.amxd" : 			{
+				"kind" : "maxforlive",
+				"local" : 1
+			}
+,
+			"VJampswitcher.amxd" : 			{
+				"kind" : "maxforlive",
+				"local" : 1
+			}
+,
+			"VJEffectsSwitcher.amxd" : 			{
+				"kind" : "maxforlive",
+				"local" : 1
+			}
 
 		}
 ,
 		"media" : 		{
-			"mic_stop_u.png" : 			{
-				"kind" : "imagefile",
-				"local" : 1
-			}
-,
 			"mic_play_u.png" : 			{
 				"kind" : "imagefile",
 				"local" : 1
@@ -99,13 +114,8 @@
 				"local" : 1
 			}
 ,
-			"Delayed to Rest (VJ Guitar).wav" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"blank.aiff" : 			{
-				"kind" : "audiofile",
+			"mic_stop_u.png" : 			{
+				"kind" : "imagefile",
 				"local" : 1
 			}
 ,
@@ -127,30 +137,6 @@
 		}
 ,
 		"other" : 		{
-			"multidelays.amxd" : 			{
-				"kind" : "livedevice",
-				"local" : 1
-			}
-,
-			"multidelays2.amxd" : 			{
-				"kind" : "livedevice",
-				"local" : 1
-			}
-,
-			"VJampswitcher.amxd" : 			{
-				"kind" : "livedevice",
-				"local" : 1
-			}
-,
-			"VJEffectsSwitcher.amxd" : 			{
-				"kind" : "livedevice",
-				"local" : 1
-			}
-,
-			"DtR_MIDI_Patch_Changes.mid" : 			{
-				"kind" : "midifile",
-				"local" : 1
-			}
 
 		}
 
@@ -164,5 +150,12 @@
 
 	}
 ,
-	"detailsvisible" : 0
+	"detailsvisible" : 0,
+	"amxdtype" : 0,
+	"readonly" : 1,
+	"devpathtype" : 0,
+	"devpath" : ".",
+	"sortmode" : 0,
+	"viewmode" : 0,
+	"includepackages" : 0
 }

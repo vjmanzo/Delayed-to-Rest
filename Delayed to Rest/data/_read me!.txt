@@ -1,1 +1,0 @@
-Do not include these files when building the collective and make sure they don’t get automatically added to the project folder!

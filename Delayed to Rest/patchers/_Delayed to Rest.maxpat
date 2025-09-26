@@ -513,7 +513,7 @@
 						"preffilename" : "Delayed to Rest Preferences",
 						"searchformissingfiles" : 1,
 						"statusvisible" : 0,
-						"usesearchpath" : 1
+						"usesearchpath" : 0
 					}
 ,
 					"text" : "standalone"
@@ -2747,10 +2747,10 @@
 ,
 									"fileref" : 									{
 										"name" : "CenterOne",
-										"filename" : "CenterOne_20250923_4.maxsnap",
+										"filename" : "CenterOne.maxsnap",
 										"filepath" : "/Volumes/Media/Git Repos/_GitHub/Delayed-to-Rest/Delayed to Rest/data",
 										"filepos" : -1,
-										"snapshotfileid" : "30b4712093a681a25a0fbd39cbbd6b26"
+										"snapshotfileid" : "4521bf8d1335845d09a988a1b9859950"
 									}
 
 								}
@@ -3126,7 +3126,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 8,
 					"outlettype" : [ "", "", "", "int", "int", "", "int", "" ],
-					"patching_rect" : [ 270.0, 350.0, 100.0, 22.0 ],
+					"patching_rect" : [ 270.0, 346.0, 100.0, 22.0 ],
 					"text" : "midiparse"
 				}
 
@@ -3912,7 +3912,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 67.942993000000001, 459.844849000000011, 117.0, 51.0 ],
+					"patching_rect" : [ 67.942993000000001, 459.844849000000011, 170.0, 51.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 42.689101999999998, 104.175858000000005, 235.0, 29.0 ],
 					"text" : "Demo Now Playing...",
@@ -17332,20 +17332,6 @@
 		}
 ,
 		"dependency_cache" : [ 			{
-				"name" : "CenterOne_20250923_4.maxsnap",
-				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/Delayed-to-Rest/Delayed to Rest/data",
-				"patcherrelativepath" : "../data",
-				"type" : "mx@s",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "DTR_Delay_Settings.json",
-				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/Delayed-to-Rest/Delayed to Rest/data",
-				"patcherrelativepath" : "../data",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "VJManzo_info.maxpat",
 				"bootpath" : "/Volumes/Media/Git Repos/_GitHub/Delayed-to-Rest/Delayed to Rest/patchers",
 				"patcherrelativepath" : ".",
